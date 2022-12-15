@@ -1,0 +1,27 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+:root{
+    --principal: #03a9f4;
+    --secundaria: #0d47a1;
+    --azul-escuro: #0d47a1;
+    --cinza-escuro: #222;
+    --branco: #fff;
+    --verde: #4caf50;
+    --vermelho: #f44336;
+    --gray: #ccc;
+}
+    
+* {
+        font-size: 1.25rem;
+}
+
+body {
+        width: 100vw;
+        height: 100vh;
+        background: #ececec;
+        color: #191919;
+        overflow-x: hidden;
+}
